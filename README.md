@@ -267,7 +267,6 @@ Simulated:
 
 ## Security Testing
 
-Simulated:
 
 * Hardware Trojans
 * Bitstream tampering
@@ -299,6 +298,8 @@ Measured:
 | Reconfiguration Latency Reduction | 37%   |
 
 ---
+
+<img width="1536" height="1024" alt="ChatGPT Image Jun 17, 2026, 06_34_13 AM" src="https://github.com/user-attachments/assets/5360723c-5530-4e5e-aa02-9a2adc5e08f9" />
 
 # Applications
 
