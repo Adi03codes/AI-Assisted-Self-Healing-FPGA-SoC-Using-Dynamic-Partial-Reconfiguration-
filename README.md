@@ -10,7 +10,8 @@ This project presents an **AI-Assisted Self-Healing FPGA System-on-Chip Architec
 
 The proposed framework combines FPGA reconfigurability, hardware security principles, intelligent monitoring, and autonomous recovery to create a next-generation cyber-resilient embedded computing platform.
 
----
+<img width="703" height="484" alt="ChatGPT Image Jun 17, 2026, 06_29_35 AM" src="https://github.com/user-attachments/assets/909665f4-22f5-41d0-b72d-a9517ff5d89d" />
+
 
 # Research Motivation
 
@@ -303,6 +304,10 @@ Measured:
 
 
 <img width="242" height="306" alt="ChatGPT Image Jun 17, 2026, 06_29_35 AM" src="https://github.com/user-attachments/assets/a62be60f-fc3f-4ca6-9663-ac8a8654023c" />
+
+
+<img width="1536" height="1024" alt="ChatGPT Image Jun 17, 2026, 06_34_13 AM" src="https://github.com/user-attachments/assets/7c4451cb-d716-475b-99b9-3921f68f30c4" />
+
 
 # Applications
 
