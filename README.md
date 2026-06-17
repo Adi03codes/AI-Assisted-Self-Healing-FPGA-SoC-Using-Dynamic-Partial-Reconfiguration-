@@ -301,6 +301,9 @@ Measured:
 
 <img width="1536" height="1024" alt="ChatGPT Image Jun 17, 2026, 06_34_13 AM" src="https://github.com/user-attachments/assets/5360723c-5530-4e5e-aa02-9a2adc5e08f9" />
 
+
+<img width="242" height="306" alt="ChatGPT Image Jun 17, 2026, 06_29_35 AM" src="https://github.com/user-attachments/assets/a62be60f-fc3f-4ca6-9663-ac8a8654023c" />
+
 # Applications
 
 The proposed architecture can be deployed in:
